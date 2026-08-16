@@ -1,8 +1,6 @@
 WEEK 4 PROJECT.
 ## DATA VISUALIZATION
 This repository contains project 4. This project was carried out as part of the Decodelabs Data Analysis Internship.
-## OBJECTIVE
-The objective of this project is to understand the raw data, clean it, create a dashboard that will communicate in clear terms the strategic steps to take in order to improve the overall business.
 ## DASHBOARD
 <img width="1366" height="746" alt="Intern Dashboard" src="https://github.com/user-attachments/assets/671aad44-d9d9-475f-9cd1-724da0684818" />
 # 📊 WEEK 4 PROJECT — DATA VISUALIZATION
